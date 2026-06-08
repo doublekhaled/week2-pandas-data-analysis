@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Ali",
+        "math":90,
+        "science":85,
+        "english":95,
+        "average":90.0
+    },
+    {
+        "name":"Sara",
+        "math":80,
+        "science":75,
+        "english":88,
+        "average":81.0
+    },
+    {
+        "name":"Ahmed",
+        "math":70,
+        "science":65,
+        "english":72,
+        "average":69.0
+    },
+    {
+        "name":"Mariam",
+        "math":95,
+        "science":92,
+        "english":90,
+        "average":92.33
+    },
+    {
+        "name":"Omar",
+        "math":78,
+        "science":82,
+        "english":80,
+        "average":80.0
+    }
+]
